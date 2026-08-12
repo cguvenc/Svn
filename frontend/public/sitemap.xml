@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://svnmakina.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://svnmakina.com/kurumsal</loc><priority>0.8</priority></url>
+  <url><loc>https://svnmakina.com/teknik-personel</loc><priority>0.8</priority></url>
+  <url><loc>https://svnmakina.com/hizmetler</loc><priority>0.8</priority></url>
+  <url><loc>https://svnmakina.com/sss</loc><priority>0.6</priority></url>
+  <url><loc>https://svnmakina.com/iletisim</loc><priority>0.7</priority></url>
+</urlset>
